@@ -1,5 +1,5 @@
 # mmda_edsa_eda
-A Project for Asian Institute of Management Master of Science in Data Science 2023 Applied Computational Statistics Project
+A Project for Asian Institute of Management Master of Science in Data Science 2023 Applied Computational Statistics
 
 Epifanio delos Santos Avenue, most commonly known as EDSA, is one of the most traversed road in Metro Manila given the geographical setting of the area. Given its accessibility, approximately 410,000 vehicles pass through EDSA daily which is way above its traffic capacity of 300,000 vehicles. This high number contributes among others factors give higher risk to road accidents such as vehicle collision, malfunction and unschedule road repairs which furthers increase the traffic issues EDSA currently has.
 
